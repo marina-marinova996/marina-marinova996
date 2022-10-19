@@ -8,6 +8,6 @@ marina-marinova996/marina-marinova996 is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-LinkedIn Profile: <i class="fa-brands fa-linkedin"></i>
+LinkedIn Profile:
 
 https://www.linkedin.com/in/marina-marinova-6468bb166/
