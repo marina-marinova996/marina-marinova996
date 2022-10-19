@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marina Marinova,
+- 👋 Hi, I’m Marina Marinova, 
 - 👀 I’m interested in both Backend and Frontend Development.
 - 🌱 I’m currently learning ASP.NET Core, C#, Entity Framework Core.
 - 💞️ I’m looking to collaborate on ...
@@ -9,4 +9,5 @@ marina-marinova996/marina-marinova996 is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
+LinkedIn Profile below:
 https://www.linkedin.com/in/marina-marinova-6468bb166/
