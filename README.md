@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marina Marinova, 
-- 👀 I’m interested in both Backend and Frontend Development.
+- 👀 I’m interested in Backend, Frontend Development and analysis.
 - 🌱 I’m currently learning ASP.NET Core, NET.6, C#, SQL, Entity Framework Core.
 - 📫 How to reach me ...
 
